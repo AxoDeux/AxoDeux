@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AxoDeux (aka Ishan)
+- 👋 Hi, I’m Ishan 
 - 👀 I’m interested in game development and graphic design.
-- 🌱 I’m currently learning Unity and Blender.
+- 🌱 I’m currently using Unity and Blender.
 - 📫 You can reach me through mail: sawant456ishan@gmail.com
 
 <!---
