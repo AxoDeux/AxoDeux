@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ishan 
-- 👀 I’m interested in game development and graphic design.
-- 🌱 I’m currently using Unity and Blender.
+- 👀 I’m interested in software and game development.
 - 📫 You can reach me through mail: sawant456ishan@gmail.com
 
 <!---
